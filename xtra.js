@@ -1,4 +1,4 @@
-alert("sdfsadf");
-alert("sdfsadf");
+alert("sdfasdfasdf");
+alert("Anton");
 alert("thor");
 alert("sdfsadf");
