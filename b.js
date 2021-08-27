@@ -1,1 +1,3 @@
-alert("b.js");
+alert("abe.js");
+alert("kat.js");
+alert("mis.js");
